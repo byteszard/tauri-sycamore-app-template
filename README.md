@@ -1,0 +1,1 @@
+# tauri-sycamore-app-template
